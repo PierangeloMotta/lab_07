@@ -1,0 +1,5 @@
+# skip all .class files
+note.txt
+*.class
+build/
+bin/
